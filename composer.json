@@ -1,0 +1,15 @@
+{
+    "name": "gtsoft/fw",
+    "description": "Test Composer",
+    "license": "GPL",
+    "authors": [
+        {
+            "name": "Andy",
+            "email": "a.kolkov@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+         "php":">=5.4.0"        
+    }
+}
