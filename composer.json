@@ -1,5 +1,6 @@
 {
     "name": "gtsoft/fw",
+    "type": "library",
     "description": "Test Composer",
     "license": "GPL",
     "authors": [
