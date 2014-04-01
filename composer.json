@@ -15,7 +15,7 @@
     },
     "autoload":{
         "psr-4": {
-         "gt\\test\\": "/framework1"
+         "gt\\": "/framework1"
          }
     }
 }

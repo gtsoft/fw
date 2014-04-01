@@ -1,6 +1,8 @@
-namespace gt\test;
+namespace gt\base;
 
-class Object
+use gt\BaseGt;
+
+class Object extends BaseGt
 {
 	public function __construct($args)
 	{
