@@ -1,3 +1,4 @@
+<?php
 namespace gt\base;
 
 use gt\BaseGt;
