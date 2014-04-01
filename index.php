@@ -1,5 +1,5 @@
 <?php
 use gt\base\Object;
 
-$test = new Object("Hellow");
+$test = new Object("Hello");
 var_dump($test);
