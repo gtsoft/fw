@@ -1,0 +1,6 @@
+namespace gt;
+
+class BaseGt
+{
+	
+}
